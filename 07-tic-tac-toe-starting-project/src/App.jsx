@@ -58,7 +58,7 @@ function App() {
       firstSquareSymbol === secondSquareSymbol &&
       firstSquareSymbol === thirdSquareSymbol
     ) {
-      winner = players[firstSquareSymbol];
+       winner = players[firstSquareSymbol];
     }
   }
   //to check game is draw
