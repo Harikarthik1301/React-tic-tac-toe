@@ -78,7 +78,7 @@ function App() {
     });
   }
 
-  //function or rematch button
+   //function or rematch button
   function handleRematch(){
     setGameTurns([]);
   }
